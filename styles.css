@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif; /* Sets the font for the body text */
+    text-align: center; /* Centers the text */
+    background-color: #f0f0f0; /* Light gray background color */
+    color: #333; /* Dark gray text color */
+}
+
+h1 {
+    margin-top: 50px; /* Adds a margin at the top of the heading */
+}
+
+button {
+    padding: 10px 20px; /* Adds padding inside the button */
+    font-size: 16px; /* Sets the font size for the button text */
+    margin-top: 20px; /* Adds a margin at the top of the button */
+    cursor: pointer; /* Changes the cursor to a pointer when hovering over the button */
+}
+
+#result {
+    margin-top: 30px; /* Adds a margin at the top of the result div */
+    font-size: 18px; /* Sets the font size for the result text */
+    font-weight: bold; /* Makes the result text bold */
+}
